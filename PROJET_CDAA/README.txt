@@ -8,6 +8,6 @@ Dans le cas ou la BDD ne s'allume pas sous linux , il faut changer le chemin DBF
 qui est une définition du fichier BaseDeDonnee.cpp
 
 Sous linux il faut placer le chemin depuis le repertoire home jusque 
-/Projet_CDAA_BOUPACHA_TYLL/GestionContact/BDDfichier/BDDGestion.sqlite
+/Projet_CDAA/GestionContact/BDDfichier/BDDGestion.sqlite
 
 
